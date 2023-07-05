@@ -12,7 +12,7 @@ async function fetchJoke() {
 
 // Translate a text using Google Translate API
 async function translateText(text, targetLanguage) {
-    const apiKey = '';
+    const apiKey = 'Your Key';
     const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
   
     try {
