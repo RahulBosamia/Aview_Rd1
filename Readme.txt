@@ -2,7 +2,7 @@
 
 2) Approach to the challenge:
    a) In the main page of the application I made two sections, in the upper section a new joke is fetched and displayed each time the web page is refreshed
-      and in the lower section the translated joke in the chosen language is displayed.
+        and in the lower section the translated joke in the chosen language is displayed.
    b) The user can choose the language from the drop down to translate the displayed joke.
    c) I have different functions to fetch, translate and display the joke. In each function potential error handling is done.
    d) I have used "jokeapi" to fetch the joke and "Google Translate" api for the joke translation.
